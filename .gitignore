@@ -1,0 +1,32 @@
+# Publication files remain local.
+latex/
+results/tables/
+scripts/make_paper_assets.jl
+*.tex
+*.pdf
+
+# Julia generated files.
+*.cov
+*.mem
+*.ji
+.JuliaFormatter.toml
+
+# Keep only the benchmark cases used by the numerical pipeline.
+data/*
+!data/PROVENANCE.md
+!data/meshed/
+data/meshed/*
+!data/meshed/pglib_opf_case14_ieee.m
+!data/meshed/pglib_opf_case30_ieee.m
+!data/meshed/pglib_opf_case57_ieee.m
+!data/meshed/pglib_opf_case73_ieee_rts.m
+!data/meshed/pglib_opf_case118_ieee.m
+!data/meshed/pglib_opf_case162_ieee_dtc.m
+!data/meshed/pglib_opf_case179_goc.m
+!data/meshed/pglib_opf_case197_snem.m
+!data/meshed/pglib_opf_case240_pserc.m
+!data/meshed/pglib_opf_case300_ieee.m
+!data/meshed/pglib_opf_case500_goc.m
+!data/meshed/pglib_opf_case588_sdet.m
+!data/meshed/pglib_opf_case793_goc.m
+!data/meshed/pglib_opf_case1354_pegase.m

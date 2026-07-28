@@ -1,0 +1,35 @@
+name = "OperatingEmissionsCertificates"
+uuid = "7ee645d2-10e8-4ba2-a14a-418cf9aa8f19"
+authors = ["Operating Emissions Certificates contributors"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PowerDiff = "4fa8226c-b122-4e48-8217-6f318ba8ef74"
+PowerIO = "05ed8b54-f668-4096-9d0d-e8c3dd9dc169"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[sources]
+PowerDiff = {url = "https://github.com/grid-opt-alg-lab/PowerDiff.jl.git", rev = "bebfce7e66e9afe2fbd3083fb690c0e8308ce163"}
+
+[compat]
+CSV = "0.10"
+DataFrames = "1"
+JSON3 = "1"
+PowerDiff = "0.1"
+PowerIO = "0.6"
+SpecialFunctions = "2"
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

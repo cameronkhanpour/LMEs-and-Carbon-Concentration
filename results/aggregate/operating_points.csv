@@ -1,0 +1,15 @@
+case_name,load_scale,line_limit_scale,attempts
+pglib_opf_case14_ieee,1.0,0.6,5
+pglib_opf_case30_ieee,1.0,1.0,1
+pglib_opf_case57_ieee,1.0,0.9,2
+pglib_opf_case73_ieee_rts,1.0,0.6,5
+pglib_opf_case118_ieee,1.0,1.0,1
+pglib_opf_case162_ieee_dtc,1.0,1.0,1
+pglib_opf_case179_goc,1.0,1.0,1
+pglib_opf_case197_snem,1.0,0.6,5
+pglib_opf_case240_pserc,1.0,1.0,1
+pglib_opf_case300_ieee,1.0,1.0,1
+pglib_opf_case500_goc,1.0,1.0,1
+pglib_opf_case588_sdet,1.0,1.0,1
+pglib_opf_case793_goc,1.0,1.0,1
+pglib_opf_case1354_pegase,1.0,1.0,1

@@ -1,0 +1,15 @@
+declared_set,declared_lines,feature_rank,dispatch_runs,span_residual,recovery_error,case_name
+exact,11,12,24,1.086225622290856e-13,1.2018529364801177e-13,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.031642817586504,0.033628768838812,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.12128056431169028,0.16600808243439988,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.003985408901280893,0.006914644880365119,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.005746372776193386,0.005771097213626848,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.24054196808574335,0.3687205871966902,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.12381725854390846,0.4445527717997637,pglib_opf_case300_ieee
+omit one binding line,10,11,22,2.3670441738003654e-5,2.37911601414268e-5,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.03681928731685754,0.05661141138030313,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.041860837332911974,0.07183710041877997,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.018272820586932272,0.018394504552723075,pglib_opf_case300_ieee
+omit one binding line,10,11,22,0.007901757690991329,0.007961011942660901,pglib_opf_case300_ieee
+add 2 slack lines,13,14,28,1.0253717853992364e-13,1.1235123843075796e-13,pglib_opf_case300_ieee
+add 5 slack lines,16,17,34,9.501090313035058e-14,1.0362315240354535e-13,pglib_opf_case300_ieee

@@ -1,0 +1,8 @@
+step_mw,inside_region,worst_facet_use,solved_perturbations,relative_field_error,dispatch_runs,case_name
+0.1,true,0.07745998142905958,true,0.00022207285487397236,24,pglib_opf_case300_ieee
+1.0,true,0.7745998142905957,true,1.2020163470713017e-5,24,pglib_opf_case300_ieee
+10.0,false,7.7459981429059575,true,0.04195423693070237,24,pglib_opf_case300_ieee
+50.0,false,38.72999071452979,true,0.29778073175653574,24,pglib_opf_case300_ieee
+100.0,false,77.45998142905958,false,NaN,24,pglib_opf_case300_ieee
+250.0,false,193.6499535726489,false,NaN,24,pglib_opf_case300_ieee
+500.0,false,387.2999071452978,false,NaN,24,pglib_opf_case300_ieee

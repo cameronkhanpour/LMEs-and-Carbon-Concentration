@@ -1,0 +1,15 @@
+case_name,facets,closest_facet,active_set_margin,exit_probability_bound,empirical_exit_probability,monte_carlo_samples
+pglib_opf_case14_ieee,46,primal_gen_lower_2,7.860832558288843,3.818459416599607e-14,0.0,2000
+pglib_opf_case30_ieee,89,primal_gen_upper_2,26.654881550592865,5.2558102346354586e-155,0.0,2000
+pglib_opf_case57_ieee,168,primal_gen_upper_3,0.6956912920215166,0.785061526238426,0.236,2000
+pglib_opf_case73_ieee_rts,381,primal_line_lower_30,0.22269395883109422,1.0,0.581,2000
+pglib_opf_case118_ieee,422,primal_gen_lower_22,1.5516639469857159,0.4356849522557009,0.0795,2000
+pglib_opf_case162_ieee_dtc,581,primal_line_lower_5,3.121263458763217,0.0076646012552505265,0.0,2000
+pglib_opf_case179_goc,556,primal_line_upper_250,1.1173792363464972,0.5962526309015989,0.143,2000
+pglib_opf_case197_snem,632,primal_gen_upper_4,0.0025089247279625705,1.0,0.93,2000
+pglib_opf_case240_pserc,1034,primal_gen_lower_42,1.4371698531886694,0.9077080804620499,0.1655,2000
+pglib_opf_case300_ieee,891,primal_gen_lower_10,0.7908416368202947,0.7314597521498941,0.222,2000
+pglib_opf_case500_goc,1746,dual_gen_lower_57,0.11559930272123169,1.0,NaN,0
+pglib_opf_case588_sdet,1468,primal_gen_upper_78,0.21056883509810878,1.0,NaN,0
+pglib_opf_case793_goc,1979,primal_gen_lower_27,1.4393148706135042,0.4113706909522791,NaN,0
+pglib_opf_case1354_pegase,4239,primal_gen_lower_68,2.3586302288404846,0.06194174404962949,NaN,0

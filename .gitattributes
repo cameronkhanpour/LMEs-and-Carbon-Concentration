@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and normalize repository sources to LF.
 * text=auto
+*.jl text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.csv text eol=lf
+
+# Preserve the upstream benchmark content, including its comment whitespace.
+data/meshed/*.m text eol=lf whitespace=-blank-at-eol
