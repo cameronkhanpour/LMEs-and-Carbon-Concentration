@@ -27,8 +27,7 @@ guarantees for systems of the same size.
 
 ## Research status and scope
 
-This is a reproducible research artifact, not an operational market tool. The
-implementation uses a transparent DC optimal power flow as the dispatch
+The implementation uses a transparent DC optimal power flow as the dispatch
 evaluator. LME recovery uses operating emissions evaluated at perturbed demand
 points. Direct solver sensitivities are computed only to validate the recovered
 values.
