@@ -51,8 +51,8 @@ unit commitment, and multiple time periods are outside the current scope.
 repository and instantiate its pinned environment:
 
 ```bash
-git clone https://github.com/cameronkhanpour/carbonation.git
-cd carbonation
+git clone https://github.com/cameronkhanpour/LMEs-and-Carbon-Concentration.git
+cd LMEs-and-Carbon-Concentration
 julia --project=. -e "using Pkg; Pkg.instantiate()"
 ```
 
