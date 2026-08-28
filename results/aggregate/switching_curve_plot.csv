@@ -1,4 +1,4 @@
-uncertainty_scale,closest_kappa,exit_probability_bound,empirical_exit_probability,empirical_lower,empirical_upper,samples,case_name,plot_empirical_probability,plot_probability_bound
+uncertainty_scale,closest_kappa,switch_bound,empirical_switch,empirical_lower,empirical_upper,samples,case_name,plot_empirical,plot_bound
 0.35,4.433325562816331,5.4047004592877056e-5,0.0,0.0,7.682327414500052e-5,50000,pglib_opf_case118_ieee,1.0e-5,5.4047004592877056e-5
 0.4764705882352941,3.2565786541675514,0.0051291578452684,0.00044,0.0002906007706192614,0.0006661548990444914,50000,pglib_opf_case118_ieee,0.00044,0.0051291578452684
 0.6029411764705882,2.5734914242689926,0.040570237131560126,0.00558,0.004963976407402542,0.006271989519002999,50000,pglib_opf_case118_ieee,0.00558,0.040570237131560126

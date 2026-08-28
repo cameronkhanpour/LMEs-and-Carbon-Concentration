@@ -1,4 +1,4 @@
-case_name,ridge,feature_rank,parameter_norm,declared_parameter_bound,median_variance_bound_ratio,median_threshold_ratio
+case_name,ridge,feature_rank,parameter_norm,declared_parameter_bound,median_risk_ratio,median_threshold_ratio
 pglib_opf_case57_ieee,1.0e-14,2,3.8296613117757814,37.74917217635375,1.1548610713959615,1.0746446250281707
 pglib_opf_case57_ieee,1.0e-12,2,3.8296613117757814,37.74917217635375,1.1444300854174076,1.0697803907696395
 pglib_opf_case57_ieee,1.0e-10,2,3.8296613117757814,37.74917217635375,1.133580497986572,1.0646973736021483

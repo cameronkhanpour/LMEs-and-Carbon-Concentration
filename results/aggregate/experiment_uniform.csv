@@ -1,4 +1,4 @@
-policy,observation_index,median_variance_bound_ratio,q10_variance_bound_ratio,q90_variance_bound_ratio,median_threshold_inflation_ratio,q10_threshold_inflation_ratio,q90_threshold_inflation_ratio,median_marginal_emissions_error,empirical_bound_coverage
+policy,t,median_risk_ratio,q10_risk_ratio,q90_risk_ratio,median_tail_margin_ratio,q10_tail_margin_ratio,q90_tail_margin_ratio,median_lme_error,empirical_ucb_coverage
 uniform,1,42864.93376481184,42338.95442481564,46032.678469053106,207.03848322753288,205.76431766660252,214.5520574187743,0.8898795954067575,1.0
 uniform,2,65145.655186796255,58466.00373015839,68649.17121034951,255.23646875047746,241.79741958016376,262.00980955117967,0.7625268393986763,1.0
 uniform,3,85868.39521609672,66784.51715387712,91711.00438315247,293.03289853706366,258.4265220738059,302.83815090464526,0.6776752310151611,1.0

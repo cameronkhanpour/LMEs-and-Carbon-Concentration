@@ -469,10 +469,10 @@ function build_uncertainty_proxy(
 end
 
 """
-Construct a sub-Gaussian proxy in MW² whose bus errors share a common system
-wide component. Every bus keeps the marginal standard deviation produced by
-`build_uncertainty_proxy`, so the only change relative to that proxy is the
-correlation `rho` between any two buses.
+Construct a sub-Gaussian proxy in MW² whose nodal demand forecast errors share
+a common system wide component. Every bus keeps the marginal standard deviation
+produced by `build_uncertainty_proxy`, so the only change relative to that proxy
+is the correlation `rho` between any two buses.
 """
 function build_correlated_uncertainty_proxy(
     demand_pu,

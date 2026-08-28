@@ -1,4 +1,4 @@
-case_name,ridge,uncertainty_scale,load_forecast_std_percent,certificate_available,median_variance_bound_ratio,median_threshold,empirical_quantile,known_variance_threshold
+case_name,ridge,uncertainty_scale,load_forecast_std_percent,certificate_available,median_risk_ratio,median_threshold,empirical_quantile,known_risk_threshold
 pglib_opf_case57_ieee,1.0e-8,0.2,0.2,true,1.124707103117525,1.1513021827186458,0.6944506003046518,1.0669320936760769
 pglib_opf_case57_ieee,1.0e-8,0.3,0.3,true,1.124707103117525,1.7954619393328541,1.0416759004569776,1.6588132675649057
 pglib_opf_case57_ieee,1.0e-8,0.4,0.4,true,1.124707103117525,3.069512562356001,1.4019037922195352,2.673438912292542

@@ -1,4 +1,4 @@
-case_name,facets,closest_facet,active_set_margin,exit_probability_bound,empirical_exit_probability,monte_carlo_samples
+case_name,facets,closest_facet,closest_kappa,switch_bound,empirical_switch,monte_carlo_samples
 pglib_opf_case14_ieee,46,primal_gen_lower_2,7.860832558288843,3.818459416599607e-14,0.0,2000
 pglib_opf_case30_ieee,89,primal_gen_upper_2,26.654881550592865,5.2558102346354586e-155,0.0,2000
 pglib_opf_case57_ieee,168,primal_gen_upper_3,0.6956912920215166,0.785061526238426,0.236,2000

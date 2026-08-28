@@ -1,4 +1,4 @@
-policy,observation_index,median_variance_bound_ratio,q10_variance_bound_ratio,q90_variance_bound_ratio,median_threshold_inflation_ratio,q10_threshold_inflation_ratio,q90_threshold_inflation_ratio,median_marginal_emissions_error,empirical_bound_coverage
+policy,t,median_risk_ratio,q10_risk_ratio,q90_risk_ratio,median_tail_margin_ratio,q10_tail_margin_ratio,q90_tail_margin_ratio,median_lme_error,empirical_ucb_coverage
 leverage,1,49782.87461304973,49782.87461303903,49782.87461306264,223.1207623979663,223.1207623979423,223.12076239799524,0.997849180859655,1.0
 leverage,2,78768.39904298334,78768.39904296759,78768.39904300934,280.65708443398205,280.657084433954,280.6570844340284,0.9969936460701656,1.0
 leverage,3,107406.49490518076,107406.49489472073,107406.49491499235,327.72930126124027,327.72930124528193,327.7293012762093,0.9948365916798492,1.0
